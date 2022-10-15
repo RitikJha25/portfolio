@@ -1,0 +1,141 @@
+h4,h5,b,span, .nav-link,a{
+    font-family:  'Roboto', sans-serif;
+    text-transform: capitalize;
+}
+h1,h2,h3{
+    font-style: bold;
+    text-transform: capitalize;
+    font-family:  'Roboto', sans-serif;
+
+}
+.profile-container{
+    padding: 1em;
+    max-width: 90vw;
+    margin: auto;
+    margin-top: 10vh;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+    border-radius: 6px;
+
+}
+
+.profile-section{
+    text-align: center;
+    padding: 1em; 
+
+}
+.title{
+    margin-top: 1em;
+}
+.profile-section img{
+    width: 6cm;
+    border-radius: 50%;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+    
+
+}
+.profile-container h2{
+    
+    text-shadow: 2px 2px 4px #c4c4c4;
+}
+.skill-content{
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+    border-radius: 6px;
+}
+.skill-content img{
+    max-width:70vw;
+    width: 300px;
+}
+.col-xs-6{
+    margin: auto;
+}
+
+
+.projects img{ 
+    max-width: 80%;
+    margin: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+    padding: 1em;
+    border-radius: 6px;
+}
+
+.contacts{
+    padding: 1em;
+    margin-top: 1em;
+    text-align: center;
+    background-color: #292323;
+    border-top: 1px black solid;
+}
+.contacts h2, .askme h2{
+    margin-top: 1em;
+    margin-bottom: 2em;
+    color: rgb(243, 243, 243);
+}
+.contacts span{
+    color: white;
+}
+.contacts a{
+    text-decoration: none;
+    font-size: 2em;
+}
+.fa-linkedin{
+    background-color: blue;
+    color: white;
+    padding: 0.2em;
+}
+.fa-twitter{
+    background-color: rgb(0, 102, 255);
+    color: white;
+    padding: 0.2em;
+}
+.fa-facebook{
+    background-color: blue;
+    color: white;
+    padding: 0.2em;
+    width: 1.5em;
+    height: 1.3em;
+}
+
+.fa-github{
+    color: white;
+    border: 1px;
+}
+.fa-envelope{
+    color: white;
+}
+.fa-instagram{
+    background: linear-gradient(to bottom, #eea51e 0%, #6300a5 100%);
+    color: white;
+    padding: 0.3em;
+}
+.contacts a:hover{
+    opacity: 0.8;
+}
+.askme{
+    padding: 1em;
+    text-align: center;
+    background-color: #292323;
+}
+iframe{
+    width: 80vw;
+    min-height: 90vh;
+    max-height:100vh ;
+}
+.profile-section .row{
+    padding: 1em;
+}
+.profile-section .col-xs-6{
+    padding: 0.2em;
+    margin:0.2em;
+    margin-top: 1em;
+    border: solid 1px;
+    border-radius: 3px;
+}
+
+.description-section img{
+    max-width: 99.5%;
+}
